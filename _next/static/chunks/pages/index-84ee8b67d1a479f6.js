@@ -8965,7 +8965,7 @@
                         enabled: s,
                         delay: (r.length + 2) * 100,
                         children: (0, i.jsx)(er, {
-                          link: "https://app.tren-ai.org/",
+                          link: "https://app.tren-ai.tech/",
                           children: "Launch Tren",
                         }),
                       }),
@@ -10789,7 +10789,7 @@
           (0, a.useEffect)(() => {
             let e = (e) => {
               ("t" === e.key || "T" === e.key) &&
-                window.open("https://app.tren-ai.org/", "_blank");
+                window.open("https://app.tren-ai.tech/", "_blank");
             };
             return (
               window.addEventListener("keydown", e),
